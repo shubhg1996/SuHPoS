@@ -1,2 +1,2 @@
 # SuHPoS
-Repository for Semi-supervised Human Pose estimation using Segmentation
+Repository for **S**emi-s**u**pervised **H**uman **Po**se estimation using **S**egmentation
